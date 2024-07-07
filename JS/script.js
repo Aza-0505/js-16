@@ -2,8 +2,14 @@
 'use strict';
 1.//function
 //function sum(...numbers){
-console.log(x+y);
-sum(10,50,6,7,8,11,6,3,9)}
+let numberSum =0;
+for (let item of numbers); {
+    numberSum= numberSum + item;
+}
+return numberSum;}
+let resultSum(10,50,6,7,8,11,6,3,9); {
+console.log(resultSum);
+}
 
 
         
@@ -70,9 +76,15 @@ sum(10,50,6,7,8,11,6,3,9)}
     }
 
    8. let array3= [1, 2, 3, 4, 5]; {
-    for (let index = 0; index < array.length; index++) {
-        const element = array[5];
-        console.log(sum);
+    //function sum(...numbers){
+let numberSum =0;
+for (let item of numbers); {
+    numberSum= numberSum + item;
+}
+return numberSum;}
+let resultSum(1,2,3,4,5); {
+console.log(resultSum);
+}
     }
    }
 
